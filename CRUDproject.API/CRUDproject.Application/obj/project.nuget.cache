@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VbPUi6ry5tY=",
+  "success": true,
+  "projectFilePath": "/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.API/CRUDproject.Application/CRUDproject.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/perajush/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.5/microsoft.aspnetcore.app.ref.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

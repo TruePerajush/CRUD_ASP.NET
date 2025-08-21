@@ -1,0 +1,11 @@
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Domain/bin/Debug/net9.0/CRUDproject.Domain.deps.json
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Domain/bin/Debug/net9.0/CRUDproject.Domain.dll
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Domain/bin/Debug/net9.0/CRUDproject.Domain.pdb
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Domain/obj/Debug/net9.0/CRUDproject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Domain/obj/Debug/net9.0/CRUDproject.Domain.AssemblyInfoInputs.cache
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Domain/obj/Debug/net9.0/CRUDproject.Domain.AssemblyInfo.cs
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Domain/obj/Debug/net9.0/CRUDproject.Domain.csproj.CoreCompileInputs.cache
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Domain/obj/Debug/net9.0/CRUDproject.Domain.dll
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Domain/obj/Debug/net9.0/refint/CRUDproject.Domain.dll
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Domain/obj/Debug/net9.0/CRUDproject.Domain.pdb
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Domain/obj/Debug/net9.0/ref/CRUDproject.Domain.dll

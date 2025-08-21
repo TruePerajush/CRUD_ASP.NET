@@ -1,0 +1,15 @@
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/bin/Debug/net9.0/CRUDproject.Application.deps.json
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/bin/Debug/net9.0/CRUDproject.Application.dll
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/bin/Debug/net9.0/CRUDproject.Application.pdb
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/bin/Debug/net9.0/CRUDproject.Domain.dll
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/bin/Debug/net9.0/CRUDproject.Domain.pdb
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/obj/Debug/net9.0/CRUDproject.Application.csproj.AssemblyReference.cache
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/obj/Debug/net9.0/CRUDproject.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/obj/Debug/net9.0/CRUDproject.Application.AssemblyInfoInputs.cache
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/obj/Debug/net9.0/CRUDproject.Application.AssemblyInfo.cs
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/obj/Debug/net9.0/CRUDproject.Application.csproj.CoreCompileInputs.cache
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/obj/Debug/net9.0/CRUDproj.07476E60.Up2Date
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/obj/Debug/net9.0/CRUDproject.Application.dll
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/obj/Debug/net9.0/refint/CRUDproject.Application.dll
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/obj/Debug/net9.0/CRUDproject.Application.pdb
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/obj/Debug/net9.0/ref/CRUDproject.Application.dll

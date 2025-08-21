@@ -1,0 +1,17 @@
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/bin/Debug/net9.0/CRUDproject.Database.deps.json
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/bin/Debug/net9.0/CRUDproject.Database.runtimeconfig.json
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/bin/Debug/net9.0/CRUDproject.Database.dll
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/bin/Debug/net9.0/CRUDproject.Database.pdb
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/bin/Debug/net9.0/CRUDproject.Domain.dll
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/bin/Debug/net9.0/CRUDproject.Domain.pdb
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/obj/Debug/net9.0/CRUDproject.Database.csproj.AssemblyReference.cache
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/obj/Debug/net9.0/CRUDproject.Database.GeneratedMSBuildEditorConfig.editorconfig
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/obj/Debug/net9.0/CRUDproject.Database.AssemblyInfoInputs.cache
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/obj/Debug/net9.0/CRUDproject.Database.AssemblyInfo.cs
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/obj/Debug/net9.0/CRUDproject.Database.csproj.CoreCompileInputs.cache
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/obj/Debug/net9.0/CRUDproj.B5B11F0D.Up2Date
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/obj/Debug/net9.0/CRUDproject.Database.dll
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/obj/Debug/net9.0/refint/CRUDproject.Database.dll
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/obj/Debug/net9.0/CRUDproject.Database.pdb
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/obj/Debug/net9.0/CRUDproject.Database.genruntimeconfig.cache
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/obj/Debug/net9.0/ref/CRUDproject.Database.dll

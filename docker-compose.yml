@@ -1,0 +1,27 @@
+version: '3.8'
+
+volumes:
+  postgres-data:
+
+services:
+  postgres:
+    container_name: postgres
+    image: postgres:latest
+    environment:
+      POSTGRES_DB: "bookstore"
+      POSTGRES_USER: "postgres"
+      POSTGRES_PASSWORD: "qwerasdf"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    ports:
+      - "27501:5432"  # Хост:27501 → Контейнер:27501
+
+  backend:
+    container_name: backend
+    build: .
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__BookStoreDbContext=Host=postgres;Port=5432;Database=bookstore;Username=postgres;Password=qwerasdf;
+    ports:
+      - "8080:8080"
+      - "8081:8081"
