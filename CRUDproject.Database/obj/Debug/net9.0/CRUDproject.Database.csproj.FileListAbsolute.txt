@@ -15,3 +15,4 @@
 /home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/obj/Debug/net9.0/CRUDproject.Database.pdb
 /home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/obj/Debug/net9.0/CRUDproject.Database.genruntimeconfig.cache
 /home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/obj/Debug/net9.0/ref/CRUDproject.Database.dll
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Database/obj/Debug/net9.0/CRUDproject.Database.sourcelink.json

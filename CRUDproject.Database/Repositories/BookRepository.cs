@@ -7,7 +7,7 @@ namespace CRUDproject.Database.Repositories;
 
 public class BookRepository(BookStoreDbContext context) : IBookRepository
 {
-    public async Task<List<Book>> Get()
+    public async Task<List<Book>> GetAll()
     {
         var booksEntities = await context.Books
             .AsNoTracking()
@@ -18,6 +18,18 @@ public class BookRepository(BookStoreDbContext context) : IBookRepository
             .ToList();
         
         return books;
+    }
+
+    public async Task<Book> GetById(Guid id)
+    {
+        var book = await context.Books
+            .AsNoTracking()
+            .FirstOrDefaultAsync(b => b.Id == id);
+        
+        if (book == null)
+            throw new ArgumentException("Book not found");
+        
+        return new Book(book.Id, book.Title, book.Author, book.Description, book.Price);
     }
 
     public async Task<Guid> Create(Book book)

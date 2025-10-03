@@ -13,3 +13,4 @@
 /home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/obj/Debug/net9.0/refint/CRUDproject.Application.dll
 /home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/obj/Debug/net9.0/CRUDproject.Application.pdb
 /home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/obj/Debug/net9.0/ref/CRUDproject.Application.dll
+/home/perajush/Рабочий стол/Programming/C#/CRUDproject/CRUDproject.Application/obj/Debug/net9.0/CRUDproject.Application.sourcelink.json

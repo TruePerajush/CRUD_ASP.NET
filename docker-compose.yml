@@ -14,14 +14,20 @@ services:
     volumes:
       - postgres-data:/var/lib/postgresql/data
     ports:
-      - "27501:5432"  # Хост:27501 → Контейнер:27501
-
-  backend:
-    container_name: backend
-    build: .
-    environment:
-      - ASPNETCORE_ENVIRONMENT=Development
-      - ConnectionStrings__BookStoreDbContext=Host=postgres;Port=5432;Database=bookstore;Username=postgres;Password=qwerasdf;
+      - "27501:5432"  # Хост:27501 → Контейнер:5432
+  
+  redis:
+    container_name: redis
+    image: redis:latest
     ports:
-      - "8080:8080"
-      - "8081:8081"
+      - 6379:6379
+  
+#  backend:
+#    container_name: backend
+#    build: .
+#    environment:
+#      - ASPNETCORE_ENVIRONMENT=Development
+#      - ConnectionStrings__BookStoreDbContext=Host=postgres;Port=5432;Database=bookstore;Username=postgres;Password=qwerasdf;
+#    ports:
+#      - "8080:8080"
+#      - "8081:8081"
