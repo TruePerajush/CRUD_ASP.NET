@@ -19,6 +19,12 @@ public class BooksController (IBookService booksService) : ControllerBase
         return Ok(response);
     }
 
+    [HttpGet("{id:guid}")]
+    public async Task<ActionResult<Book>> GetBook(Guid id)
+    {
+       return Ok(await booksService.GetBookById(id));
+    }
+    
     [HttpPost]
     public async Task<ActionResult<Guid>> CreateBook([FromBody] BooksRequest request)
     {

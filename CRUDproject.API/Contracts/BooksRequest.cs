@@ -1,7 +1,9 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace CRUDproject.Contracts;
 
 public record BooksRequest(
-    string Title,
-    string Author,
-    string Description,
-    decimal Price);
+    [Required] string Title,
+    [Required] string Author,
+    [Required] string Description,
+    [Required] decimal Price);
